@@ -19,10 +19,6 @@
 /app/release/
 /captures
 
-# APK outputs (built artifacts)
-/APKs/
-*.apk
-
 # OS
 .DS_Store
 
